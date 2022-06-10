@@ -1,0 +1,17 @@
+at the settings in my github account 
+1)i added repository and named it alaaabouzied
+
+2)then i created new directory called point2
+   $mkdir point2
+3)then i intialize Git repository
+   $git init
+4)then i created new file
+   $touch alaaabouzied
+5)add all changes to the sataging area
+    $git add .
+6)commit all changes to the local server
+    $git commit -m "this file to explain the steps to add repository to github"
+7)git remote add origin git@github.com:alaa-abouzied/alaaabouzied.git
+8)push all commits to remote server
+    $git push origin main
+
